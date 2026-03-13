@@ -17,7 +17,7 @@
     <CombineIds>true</CombineIds>
     <Released>false</Released>
     <Title>TcUnit Zeugwerk</Title>
-    <DefaultNamespace>TcUnit</DefaultNamespace>
+    <DefaultNamespace>TcUnit_Zeugwerk</DefaultNamespace>
     <Description>TwinCAT unit testing framework.
 Documentation and examples are available at www.tcunit.org</Description>
     <LibraryCategories>
