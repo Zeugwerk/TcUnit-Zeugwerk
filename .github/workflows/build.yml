@@ -6,7 +6,7 @@ on:
     paths:
       - 'TcUnit/**'
   pull_request:
-    branches: [ master, master_zgwk ]
+    branches: [ master ]
   workflow_dispatch:
 jobs:
   Build:
