@@ -2,7 +2,7 @@
 <TcSmProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4022.14">
 	<Project ProjectGUID="{6FA21008-E02E-4675-BDB9-D161F2357484}" Target64Bit="true" ShowHideConfigurations="#x3c7">
 		<Plc>
-			<Project File="TcUnit.xti"/>
+			<Project File="TcUnit_Zeugwerk.xti"/>
 		</Plc>
 	</Project>
 </TcSmProject>
