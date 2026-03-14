@@ -18,7 +18,7 @@ The following pull requests from the upstream repository have been merged into t
 
 ### Contributing
 
-Pull requests are welcome! If you have an improvement or bug fix, please consider opening your PR in the [upstream repository](https://github.com/tcunit/TcUnit) first — that remains the official home of TcUnit and the best place for contributions to reach the widest audience. We periodically review all open PRs upstream, test them, and integrate the ones that make sense — both for our own use cases and to keep useful community contributions generally available. If we missed a PR, which is particular important for you, please give us a heads up and write an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues) on the repository.
+Pull requests are welcome! If you have an improvement or bug fix, please consider opening your PR in the [upstream repository](https://github.com/tcunit/TcUnit) first - that remains the official home of TcUnit and the best place for contributions to reach the widest audience. We periodically review all open PRs upstream, test them, and integrate the ones that make sense — both for our own use cases and to keep useful community contributions generally available. If we missed a PR, which is particular important for you, please give us a heads up and write an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues) on the repository.
 
 ## TcUnit - TwinCAT unit testing framework
 
