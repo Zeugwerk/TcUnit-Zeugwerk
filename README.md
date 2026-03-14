@@ -17,7 +17,7 @@ The following pull requests from the upstream repository have been merged into t
 - [ ] [#179 — Feature/add awaiting assertion capability](https://github.com/tcunit/TcUnit/pull/179)
 
 
-# TcUnit - TwinCAT unit testing framework
+## TcUnit - TwinCAT unit testing framework
 
 Welcome to the documentation TcUnit - an xUnit testing framework for [Beckhoff's TwinCAT 3](https://www.beckhoff.com/twincat3/).
 
