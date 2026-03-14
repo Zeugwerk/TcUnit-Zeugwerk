@@ -2,6 +2,26 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/tcunit/TcUnit/blob/master/LICENSE)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TcUnit/TcUnit)
 
+
+# TcUnit-Zeugwerk
+
+This is a community fork of [tcunit/TcUnit](https://github.com/tcunit/TcUnit) maintained by [@beslst](https://github.com/beslst) and [@stefanbesler](https://github.com/stefanbesler).
+
+We created this fork to collect and integrate community contributions that we wanted to use in our own projects. Most notably, this fork powers the [Test Explorer](https://zeugwerk.dev/Zeugwerk_Framework/Documentation/main/userguide/creator/textexplorer.html) in [Zeugwerk Creator](https://zeugwerk.dev), where the xUnit publisher improvements in particular make a noticeable difference in how test results are reported and displayed.
+
+### Merged community contributions
+
+The following pull requests from the upstream repository have been merged into this fork:
+
+- [x] [#270 — feat: allow to disable the ads logger completely](https://github.com/tcunit/TcUnit/pull/270)
+- [x] [#269 — feat: added ci/cd](https://github.com/tcunit/TcUnit/pull/269)
+- [x] [#268 — feat: Improvements on XUnitPublisher](https://github.com/tcunit/TcUnit/pull/268)
+- [ ] [#252 — Escape some characters in xunit_results.xml](https://github.com/tcunit/TcUnit/pull/252)
+- [ ] [#249 — Documentation improved](https://github.com/tcunit/TcUnit/pull/249)
+- [x] [#208 — feat(xUnitXmlPublisher): Include assertion message in test output](https://github.com/tcunit/TcUnit/pull/208)
+- [ ] [#179 — Feature/add awaiting assertion capability](https://github.com/tcunit/TcUnit/pull/179)
+
+
 # TcUnit - TwinCAT unit testing framework
 
 Welcome to the documentation TcUnit - an xUnit testing framework for [Beckhoff's TwinCAT 3](https://www.beckhoff.com/twincat3/).
