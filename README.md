@@ -16,6 +16,9 @@ The following pull requests from the upstream repository have been merged into t
 - [x] [#208 — feat(xUnitXmlPublisher): Include assertion message in test output](https://github.com/tcunit/TcUnit/pull/208)
 - [ ] [#179 — Feature/add awaiting assertion capability](https://github.com/tcunit/TcUnit/pull/179)
 
+### Contributing
+
+Pull requests are welcome! If you have an improvement or bug fix, please consider opening your PR in the [upstream repository](https://github.com/tcunit/TcUnit) first - that remains the home of TcUnit and the best place for contributions to reach the widest audience. We periodically review open PRs in upstream, and where they are relevant to our use cases we will pick them up, test them, and integrate them into this fork.
 
 ## TcUnit - TwinCAT unit testing framework
 
