@@ -5,9 +5,9 @@
 
 # TcUnit-Zeugwerk
 
-This is a community fork of [tcunit/TcUnit](https://github.com/tcunit/TcUnit) maintained by [@beslst](https://github.com/beslst) and [@stefanbesler](https://github.com/stefanbesler).
+This is a community fork of [tcunit/TcUnit](https://github.com/tcunit/TcUnit) maintained by [@beslst](https://github.com/Zeugwerk).
 
-We created this fork to collect and integrate community contributions that we wanted to use in our own projects. Most notably, this fork powers the [Test Explorer](https://zeugwerk.dev/Zeugwerk_Framework/Documentation/main/userguide/creator/textexplorer.html) in [Zeugwerk Creator](https://zeugwerk.dev), where the xUnit publisher improvements in particular make a noticeable difference in how test results are reported and displayed.
+We created this fork to collect and integrate our and others community contributions that we want to use. Most notably, this fork improves the [Test Explorer](https://zeugwerk.dev/Zeugwerk_Framework/Documentation/main/userguide/creator/textexplorer.html) in [Zeugwerk Creator](https://zeugwerk.dev), where the xUnit publisher changes in particular make a noticeable difference in how test results are reported and displayed.
 
 ### Merged community contributions
 
