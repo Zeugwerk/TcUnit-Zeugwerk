@@ -22,10 +22,10 @@ VAR_GLOBAL CONSTANT
        being collected by an external software (such as TcUnit-Runner) to do for example Jenkins integration.
        This extra information however takes time to print, so by setting the following parameter to FALSE
        it will speed up TcUnit finishing. *)
-    LogExtendedResults : BOOL := TRUE;
+    LogExtendedResults : BOOL := FALSE;
 
     (* Enable (TRUE) or disable (FALSE) publishing of the xUnit Xml report *)
-    xUnitEnablePublish : BOOL := FALSE;
+    xUnitEnablePublish : BOOL := TRUE;
 
     (* Default reserved PLC memory buffer used for composition of the xUnit xml file (64 kb default) *)
     xUnitBufferSize : UDINT := 65535;
