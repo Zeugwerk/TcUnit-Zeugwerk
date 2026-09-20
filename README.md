@@ -2,6 +2,13 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/tcunit/TcUnit/blob/master/LICENSE)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/TcUnit/TcUnit)
 
+## Project status
+
+**Stable but resting.** This project works and is safe to use, but I'm not
+actively developing it right now. Issues and PRs may go unreviewed — if you
+need changes urgently, please fork. I may return to it down the line; there's
+no deprecation planned.
+
 # TcUnit - TwinCAT unit testing framework
 
 Welcome to the documentation TcUnit - an xUnit testing framework for [Beckhoff's TwinCAT 3](https://www.beckhoff.com/twincat3/).
