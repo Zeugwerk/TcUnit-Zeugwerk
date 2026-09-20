@@ -18,7 +18,11 @@ The following pull requests from the upstream repository have been merged into t
 
 ### Contributing
 
-Pull requests are welcome! If you have an improvement or bug fix, please consider opening your PR in the [upstream repository](https://github.com/tcunit/TcUnit) first - that remains the official home of TcUnit and the best place for contributions to reach the widest audience. We periodically review all open PRs upstream, test them, and integrate the ones that make sense — both for our own use cases and to keep useful community contributions generally available. If we missed a PR, which is particular important for you, please give us a heads up and write an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues) on the repository.
+Pull requests are welcome. Please open them against the `master_zgwk` branch of this repository.
+
+The original [TcUnit](https://github.com/tcunit/TcUnit) project is currently resting, so this fork is the best place for new work. We keep `master` aligned with upstream so we can merge from there again if the original project becomes active. `master_zgwk` is the maintained branch of this fork.
+
+Please read [CONTRIBUTING](CONTRIBUTING.md) first. If we missed an upstream PR that matters to you, open an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues).
 
 ## TcUnit - TwinCAT unit testing framework
 
@@ -40,16 +44,13 @@ Read the [programming example](https://tcunit.org/#/programming-example-introduc
 Go to the [releases](https://github.com/tcunit/TcUnit/releases).
 
 **Want to contribute to the project?**  
-That's fantastic! There are two ways to do this.
+That's fantastic. Please open a [pull request](https://github.com/Zeugwerk/TcUnit-Zeugwerk/pulls) against `master_zgwk` and read [CONTRIBUTING](CONTRIBUTING.md) first.
 
-1. Contribute with your time and knowledge by fixing issues or adding new features. Please read the [CONTRIBUTING](CONTRIBUTING.md) first.
-2. By [becoming  a sponsor](https://github.com/sponsors/tcunit).
+You can also [become a sponsor](https://github.com/sponsors/tcunit) of the original project.
 
 **Have any questions? Found a bug or want to discuss an idea?**  
 Check the [F.A.Q](https://tcunit.org/#/faq).
-Check the [open](https://github.com/tcunit/TcUnit/issues) and [closed](https://github.com/tcunit/TcUnit/issues?q=is%3Aissue+is%3Aclosed) issues.
-If your issue does not already exist, create a [new](https://github.com/tcunit/TcUnit/issues/new/choose).
-For general ideas/discussions, use the [discussions](https://github.com/tcunit/TcUnit/discussions).
+Open an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues) here. The original project's [issues](https://github.com/tcunit/TcUnit/issues) and [discussions](https://github.com/tcunit/TcUnit/discussions) remain a useful reference.
 
 ## Star History
 
