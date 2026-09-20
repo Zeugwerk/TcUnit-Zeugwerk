@@ -11,6 +11,8 @@ no deprecation planned.
 
 # TcUnit - TwinCAT unit testing framework
 
+This is an actively maintained fork of [TcUnit](https://github.com/tcunit/TcUnit). The original project is currently resting. **Pull requests are welcome.** Please read [CONTRIBUTING](CONTRIBUTING.md) first.
+
 Welcome to the documentation TcUnit - an xUnit testing framework for [Beckhoff's TwinCAT 3](https://www.beckhoff.com/twincat3/).
 
 **Main documentation site is available on:**  
@@ -29,16 +31,14 @@ Read the [programming example](https://tcunit.org/#/programming-example-introduc
 Go to the [releases](https://github.com/tcunit/TcUnit/releases).
 
 **Want to contribute to the project?**  
-That's fantastic! There are two ways to do this.
+That's fantastic. This fork is actively maintained and we welcome [pull requests](https://github.com/Zeugwerk/TcUnit-Zeugwerk/pulls).
 
 1. Contribute with your time and knowledge by fixing issues or adding new features. Please read the [CONTRIBUTING](CONTRIBUTING.md) first.
-2. By [becoming  a sponsor](https://github.com/sponsors/tcunit).
+2. By [becoming a sponsor](https://github.com/sponsors/tcunit) of the original project.
 
 **Have any questions? Found a bug or want to discuss an idea?**  
 Check the [F.A.Q](https://tcunit.org/#/faq).
-Check the [open](https://github.com/tcunit/TcUnit/issues) and [closed](https://github.com/tcunit/TcUnit/issues?q=is%3Aissue+is%3Aclosed) issues.
-If your issue does not already exist, create a [new](https://github.com/tcunit/TcUnit/issues/new/choose).
-For general ideas/discussions, use the [discussions](https://github.com/tcunit/TcUnit/discussions).
+Open an [issue](https://github.com/Zeugwerk/TcUnit-Zeugwerk/issues) here. The original project's [issues](https://github.com/tcunit/TcUnit/issues) and [discussions](https://github.com/tcunit/TcUnit/discussions) remain a useful reference.
 
 ## Star History
 
